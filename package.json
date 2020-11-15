@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/Ismail-cloud/Newcastle-organizer-server/issues"
   },
-  "homepage": "https://github.com/Ismail-cloud/Newcastle-organizer-server#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "homepage": "https://github.com/Ismail-cloud/Newcastle-organizer-server#readme"
 }
